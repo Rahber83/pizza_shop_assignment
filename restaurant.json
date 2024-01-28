@@ -1,0 +1,232 @@
+[
+  {
+    "name": "Pizza Palace",
+    "cuisine": "Italian",
+    "address": {
+      "street": "123 Main St",
+      "city": "Cityville",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "phone": "555-1234",
+    "menu": [
+      {
+        "name": "Margherita Pizza",
+        "description": "Classic pizza with tomato, mozzarella, and basil",
+        "price": 10.99
+      },
+      {
+        "name": "Pepperoni Pizza",
+        "description": "Pizza with pepperoni, cheese, and tomato sauce",
+        "price": 12.99
+      }
+    ]
+  },
+  {
+    "name": "Pizza World",
+    "cuisine": "Italian",
+    "address": {
+      "street": "456 Oak St",
+      "city": "Townsville",
+      "state": "NY",
+      "zip": "67890"
+    },
+    "phone": "555-5678",
+    "menu": [
+      {
+        "name": "Vegetarian Pizza",
+        "description": "Pizza loaded with fresh vegetables",
+        "price": 11.99
+      },
+      {
+        "name": "Hawaiian Pizza",
+        "description": "Pizza with ham, pineapple, and cheese",
+        "price": 13.99
+      }
+    ]
+  },
+  {
+    "name": "Pizza Haven",
+    "cuisine": "Italian",
+    "address": {
+      "street": "789 Pine St",
+      "city": "Villageton",
+      "state": "TX",
+      "zip": "98765"
+    },
+    "phone": "555-9876",
+    "menu": [
+      {
+        "name": "Chicken BBQ Pizza",
+        "description": "Pizza with BBQ chicken, onions, and BBQ sauce",
+        "price": 14.99
+      },
+      {
+        "name": "Mushroom Delight Pizza",
+        "description": "Pizza with mushrooms, olives, and onions",
+        "price": 12.99
+      }
+    ]
+  },
+  {
+    "name": "Pizza Express",
+    "cuisine": "Italian",
+    "address": {
+      "street": "101 Cedar St",
+      "city": "Hamletville",
+      "state": "FL",
+      "zip": "54321"
+    },
+    "phone": "555-5432",
+    "menu": [
+      {
+        "name": "Supreme Pizza",
+        "description": "Pizza with pepperoni, sausage, mushrooms, and bell peppers",
+        "price": 15.99
+      },
+      {
+        "name": "Spinach and Feta Pizza",
+        "description": "Pizza with spinach, feta cheese, and garlic",
+        "price": 13.99
+      }
+    ]
+  },
+  {
+    "name": "Classic Pizzeria",
+    "cuisine": "Italian",
+    "address": {
+      "street": "222 Maple St",
+      "city": "Greenville",
+      "state": "NC",
+      "zip": "87654"
+    },
+    "phone": "555-8765",
+    "menu": [
+      {
+        "name": "Classic Margherita",
+        "description": "The timeless combination of tomato, mozzarella, and basil",
+        "price": 11.99
+      },
+      {
+        "name": "Meat Lovers",
+        "description": "Loaded with a variety of meats and savory flavors",
+        "price": 14.99
+      }
+    ]
+  },
+  {
+    "name": "Family Pizzeria",
+    "cuisine": "Italian",
+    "address": {
+      "street": "333 Elm St",
+      "city": "Familytown",
+      "state": "CA",
+      "zip": "34567"
+    },
+    "phone": "555-3456",
+    "menu": [
+      {
+        "name": "Family Special",
+        "description": "A special pizza for the whole family to enjoy",
+        "price": 17.99
+      },
+      {
+        "name": "Veggie Delight",
+        "description": "Packed with a variety of fresh vegetables",
+        "price": 13.99
+      }
+    ]
+  },
+  {
+    "name": "Golden Crust Pizzeria",
+    "cuisine": "Italian",
+    "address": {
+      "street": "444 Walnut St",
+      "city": "Goldenville",
+      "state": "TX",
+      "zip": "23456"
+    },
+    "phone": "555-2345",
+    "menu": [
+      {
+        "name": "Golden Supreme",
+        "description": "A supreme pizza with a golden touch",
+        "price": 16.99
+      },
+      {
+        "name": "Cheese Burst",
+        "description": "Pizza with a burst of cheesy goodness",
+        "price": 15.99
+      }
+    ]
+  },
+  {
+    "name": "Mama Mia's Pizzeria",
+    "cuisine": "Italian",
+    "address": {
+      "street": "555 Oak St",
+      "city": "Mamatown",
+      "state": "NY",
+      "zip": "45678"
+    },
+    "phone": "555-4567",
+    "menu": [
+      {
+        "name": "Mama's Special",
+        "description": "A special pizza made with Mama's love",
+        "price": 18.99
+      },
+      {
+        "name": "Four Cheese Delight",
+        "description": "Pizza with a blend of four cheeses",
+        "price": 14.99
+      }
+    ]
+  },
+  {
+    "name": "Slice of Heaven",
+    "cuisine": "Italian",
+    "address": {
+      "street": "666 Pine St",
+      "city": "Heaventown",
+      "state": "FL",
+      "zip": "65432"
+    },
+    "phone": "555-6543",
+    "menu": [
+      {
+        "name": "Heavenly Veg",
+        "description": "A heavenly pizza loaded with fresh vegetables",
+        "price": 12.99
+      },
+      {
+        "name": "Divine Pepperoni",
+        "description": "Pepperoni pizza with a divine flavor",
+        "price": 16.99
+      }
+    ]
+  },
+  {
+    "name": "Sizzling Sausage Pizzeria",
+    "cuisine": "Italian",
+    "address": {
+      "street": "777 Maple St",
+      "city": "Sizzletown",
+      "state": "NC",
+      "zip": "76543"
+    },
+    "phone": "555-7654",
+    "menu": [
+      {
+        "name": "Sizzling Sausage Delight",
+        "description": "Pizza with sizzling sausages and flavorful toppings",
+        "price": 15.99
+      },
+      {
+        "name": "Spicy Jalapeño Fiesta",
+        "description": "Spicy pizza with jalapeños for a fiery fiesta",
+        "price": 13.99
+      }
+    ]
+  }
+]
