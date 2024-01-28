@@ -85,7 +85,7 @@ install the mongoDB compass for DB connection and put the DB_STRING URI into the
 ![image](https://github.com/Rahber83/pizza_shop_assignment/assets/119001786/c020f5e1-3d70-4161-aec4-59d4d841b897)
 
 
-After connecting with the DB create a new collection with name restaurants and insert the restaurant.json which is in the repository with the same name file.
+After connecting with the DB create a new collection with name restaurants and insert the restaurant.json which is in the repository with the same file name.
 ![image](https://github.com/Rahber83/pizza_shop_assignment/assets/119001786/8b97451c-f70b-4fbe-8508-65784960ad39)
 
 ### Usage
