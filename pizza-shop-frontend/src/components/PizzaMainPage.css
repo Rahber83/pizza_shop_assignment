@@ -1,0 +1,53 @@
+.main-display {
+  text-align: center;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.pizza-table {
+  margin: 10px;
+}
+
+.order-id,
+.stage,
+.time-spent,
+.action {
+  text-align: center;
+}
+
+.table-bordered {
+  border: 1px solid #dee2e6;
+}
+
+.table-bordered thead th,
+.table-bordered tbody td {
+  border: 1px solid #dee2e6;
+}
+
+.table-bordered thead th {
+  border-bottom-width: 2px;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #f5f5f5;
+}
+
+.see-pizzas-details {
+  display: block;
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-bottom: -14px;
+  font-family: monospace !important;
+  font-size: larger !important;
+}
+
+.error-message {
+  color: red;
+  font-size: small;
+}
+
+.filter {
+  display: flex;
+  justify-content: flex-end;
+}

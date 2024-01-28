@@ -1,0 +1,196 @@
+.pizza-stage-page {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.order-stage {
+  flex: 1;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  margin-right: 20px;
+}
+
+.order-details {
+  margin-bottom: 10px;
+}
+
+.pizza-stage-page {
+  display: flex;
+  overflow-x: hidden;
+  font-family: monospace;
+}
+
+.order-stage {
+  flex: 1;
+  margin: 10px;
+  box-sizing: border-box;
+  justify-content: center;
+  min-width: 0;
+}
+
+@media (max-width: 1200px) {
+  .order-stage {
+    flex-basis: calc(25% - 20px);
+  }
+}
+
+@media (max-width: 768px) {
+  .order-stage {
+    flex-basis: 100%;
+  }
+}
+
+.back-to-home-button {
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-bottom: -14px;
+}
+
+.status-box {
+  font-family: monospace;
+}
+.restaurant-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+}
+
+.order-stage:nth-child(1) h3.outlined-heading {
+  display: inline-block;
+  position: relative;
+  padding: 5px;
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.order-stage:nth-child(1) h3.outlined-heading:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 0.25em;
+  pointer-events: none;
+  box-sizing: border-box;
+}
+
+.order-stage:nth-child(1) h3.outlined-heading:hover {
+  color: black;
+  background-color: yellow;
+  border-radius: 5px;
+}
+
+.order-stage:nth-child(1) h3.outlined-heading:hover:before {
+  border-color: #0056b3;
+}
+
+.order-stage:nth-child(2) h3.outlined-heading {
+  display: inline-block;
+  position: relative;
+  padding: 5px;
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.order-stage:nth-child(2) h3.outlined-heading:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 0.25em;
+  pointer-events: none;
+  box-sizing: border-box;
+}
+
+.order-stage:nth-child(2) h3.outlined-heading:hover {
+  color: white;
+  background-color: orangered;
+  border-radius: 5px;
+}
+
+.order-stage:nth-child(2) h3.outlined-heading:hover:before {
+  border-color: #0056b3;
+}
+
+.order-stage:nth-child(3) h3.outlined-heading {
+  display: inline-block;
+  position: relative;
+  padding: 5px;
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.order-stage:nth-child(3) h3.outlined-heading:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 0.25em;
+  pointer-events: none;
+  box-sizing: border-box;
+}
+
+.order-stage:nth-child(3) h3.outlined-heading:hover {
+  color: black;
+  background-color: lawngreen;
+  border-radius: 5px;
+}
+
+.order-stage:nth-child(3) h3.outlined-heading:hover:before {
+  border-color: #0056b3;
+}
+
+.order-stage:nth-child(4) h3.outlined-heading {
+  display: inline-block;
+  position: relative;
+  padding: 5px;
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.order-stage:nth-child(4) h3.outlined-heading:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 0.25em;
+  pointer-events: none;
+  box-sizing: border-box;
+}
+
+.order-stage:nth-child(4) h3.outlined-heading:hover {
+  color: white;
+  background-color: green;
+  border-radius: 5px;
+}
+
+.order-stage:nth-child(4) h3.outlined-heading:hover:before {
+  border-color: #0056b3;
+}
+
+.distance {
+  margin-top: 10px;
+}
+
+.distance-next-button {
+  margin-top: 15px;
+}
+
+.red-card {
+  background-color: red;
+}
